@@ -1,5 +1,6 @@
 <template>
   <img src="./assets/img/jianLi.png" alt="">
+    <img src="./assets/img/dogss.png" alt="">
 </template>
          
 <script>
